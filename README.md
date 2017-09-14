@@ -43,7 +43,7 @@
 </div>
 
 
-# How To Maintain An Active Slack Group For Mutual Benefits
+# How To Maintain An Active Slack Group For Mutual Benefits<a id="sec-1" name="sec-1"></a>
 
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
@@ -60,41 +60,41 @@ Similar Projects:
 
 ---
 
-## Principle
+## Principle<a id="sec-1-1" name="sec-1-1"></a>
 
-### Make friends with all active users
+### Make friends with all active users<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
-### Don't make people feel forced to do anything. It should come from themselves.
+### Don't make people feel forced to do anything. It should come from themselves.<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
-### It's all about the audience.
+### It's all about the audience.<a id="sec-1-1-3" name="sec-1-1-3"></a>
 
-### You should enjoy and learn from all the conversations.
+### You should enjoy and learn from all the conversations.<a id="sec-1-1-4" name="sec-1-1-4"></a>
 
-### Ask people to take actions, but only the mininum actions
+### Ask people to take actions, but only the mininum actions<a id="sec-1-1-5" name="sec-1-1-5"></a>
 
-## Lessons learned
+## Lessons learned<a id="sec-1-2" name="sec-1-2"></a>
 
-### Setup right expectation for each activity
+### Setup right expectation for each activity<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
-### Only include people into discussion which he/she personally is interested.
+### Only include people into discussion which he/she personally is interested.<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
-### Get more attention first; Pouring too much information is bad and useless.
+### Get more attention first; Pouring too much information is bad and useless.<a id="sec-1-2-3" name="sec-1-2-3"></a>
 
-### Don't get discussion distracted. Timing is important.
+### Don't get discussion distracted. Timing is important.<a id="sec-1-2-4" name="sec-1-2-4"></a>
 
-## Routine tasks
+## Routine tasks<a id="sec-1-3" name="sec-1-3"></a>
 
-### Collect and share interested and related stuff
+### Collect and share interested and related stuff<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
-### As maintainers, keep asking yourself: what beneift people can get from the group today.
+### As maintainers, keep asking yourself: what beneift people can get from the group today.<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
-### Whenever a new memeber join, send him/her a warm welcome message
+### Whenever a new memeber join, send him/her a warm welcome message<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
-### Keep starting private 1-1 conversations.
+### Keep starting private 1-1 conversations.<a id="sec-1-3-4" name="sec-1-3-4"></a>
 
-## Doc Template
+## Doc Template<a id="sec-1-4" name="sec-1-4"></a>
 
-### Invite people into the slack group
+### Invite people into the slack group<a id="sec-1-4-1" name="sec-1-4-1"></a>
 
     XXX, I have created a DevOps slack group recently. A private group. By invitation only.
     
@@ -108,7 +108,7 @@ Similar Projects:
     
     Send me a private message, when you're in.
 
-### Invite people to #blog-review
+### Invite people to #blog-review<a id="sec-1-4-2" name="sec-1-4-2"></a>
 
     XX, we have a private channel: #blog-review.
     
@@ -118,6 +118,6 @@ Similar Projects:
     
     And it's perfectly fine, if you skip this.
 
-## Recommended Books
+## Recommended Books<a id="sec-1-5" name="sec-1-5"></a>
 
 -   TODO
