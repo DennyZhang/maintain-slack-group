@@ -10,6 +10,7 @@
 <li><a href="#sec-1-1-2">1.1.2. Don't make people feel forced to do anything. It should come from themselves.</a></li>
 <li><a href="#sec-1-1-3">1.1.3. It's all about the audience.</a></li>
 <li><a href="#sec-1-1-4">1.1.4. You should enjoy and learn from all the conversations.</a></li>
+<li><a href="#sec-1-1-5">1.1.5. Ask people to take actions, but only the mininum actions</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-2">1.2. Routine tasks</a>
@@ -24,6 +25,7 @@
 <ul>
 <li><a href="#sec-1-3-1">1.3.1. Setup right expectation for each activity</a></li>
 <li><a href="#sec-1-3-2">1.3.2. Don't get discussion distracted. Timing is important.</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Get more attention first, before pouring too much information</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Recommended Books</a></li>
@@ -66,6 +68,8 @@ Similar Projects:
 
 ### You should enjoy and learn from all the conversations.<a id="sec-1-1-4" name="sec-1-1-4">[]</a>
 
+### Ask people to take actions, but only the mininum actions<a id="sec-1-1-5" name="sec-1-1-5">[]</a>
+
 ## Routine tasks<a id="sec-1-2" name="sec-1-2">[]</a>
 
 ### Collect and share interested and related stuff<a id="sec-1-2-1" name="sec-1-2-1">[]</a>
@@ -81,6 +85,8 @@ Similar Projects:
 ### Setup right expectation for each activity<a id="sec-1-3-1" name="sec-1-3-1">[]</a>
 
 ### Don't get discussion distracted. Timing is important.<a id="sec-1-3-2" name="sec-1-3-2">[]</a>
+
+### Get more attention first, before pouring too much information<a id="sec-1-3-3" name="sec-1-3-3">[]</a>
 
 ## Recommended Books<a id="sec-1-4" name="sec-1-4">[]</a>
 

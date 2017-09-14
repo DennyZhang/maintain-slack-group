@@ -18,12 +18,12 @@ Similar Projects:
 - Github: [[https://github.com/DennyZhang/maintain-slack-group][How To Maintain An Active Slack Group For Mutual Benefits]]
 
 --------------------------------------------------------
-
 ** Principle
 *** Make friends with all active users
 *** Don't make people feel forced to do anything. It should come from themselves.
 *** It's all about the audience.
 *** You should enjoy and learn from all the conversations.
+*** Ask people to take actions, but only the mininum actions
 ** Routine tasks
 *** Collect and share interested and related stuff
 *** As maintainers, keep asking yourself: what beneift people can get from the group today.
@@ -32,6 +32,7 @@ Similar Projects:
 ** Lessons learned
 *** Setup right expectation for each activity
 *** Don't get discussion distracted. Timing is important.
+*** Get more attention first, before pouring too much information
 ** Recommended Books
 - TODO
 ** Doc Template
