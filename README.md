@@ -23,6 +23,7 @@
 <li><a href="#sec-1-3">1.3. Lessons learned</a>
 <ul>
 <li><a href="#sec-1-3-1">1.3.1. Setup right expectation for each activity</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Don't get discussion distracted. Timing is important.</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Recommended Books</a></li>
@@ -78,6 +79,8 @@ Similar Projects:
 ## Lessons learned<a id="sec-1-3" name="sec-1-3">[]</a>
 
 ### Setup right expectation for each activity<a id="sec-1-3-1" name="sec-1-3-1">[]</a>
+
+### Don't get discussion distracted. Timing is important.<a id="sec-1-3-2" name="sec-1-3-2">[]</a>
 
 ## Recommended Books<a id="sec-1-4" name="sec-1-4">[]</a>
 
