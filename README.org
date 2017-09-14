@@ -35,7 +35,7 @@ Similar Projects:
 *** Whenever a new memeber join, send him/her a warm welcome message
 *** Keep starting private 1-1 conversations.
 ** Doc Template
-*** Invite people into your group
+*** Invite people into the slack group
 #+BEGIN_EXAMPLE
 XXX, I have created a DevOps slack group recently. A private group. By invitation only.
 
@@ -48,6 +48,16 @@ https://yourfakechannel.slack.com/
 Super nice. Probably you will see some old friends there.
 
 Send me a private message, when you're in.
+#+END_EXAMPLE
+*** Invite people to #blog-review
+#+BEGIN_EXAMPLE
+XX, we have a private channel: #blog-review. 
+
+It's for IT bloggers. We give review for each other, before publishing them to public.
+
+Do you want to join? 
+
+And it's perfectly fine, if you skip this.
 #+END_EXAMPLE
 ** Recommended Books
 - TODO

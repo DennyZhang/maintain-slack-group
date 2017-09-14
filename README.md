@@ -31,7 +31,8 @@
 </li>
 <li><a href="#sec-1-4">1.4. Doc Template</a>
 <ul>
-<li><a href="#sec-1-4-1">1.4.1. Invite people into your group</a></li>
+<li><a href="#sec-1-4-1">1.4.1. Invite people into the slack group</a></li>
+<li><a href="#sec-1-4-2">1.4.2. Invite people to #blog-review</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-5">1.5. Recommended Books</a></li>
@@ -93,7 +94,7 @@ Similar Projects:
 
 ## Doc Template<a id="sec-1-4" name="sec-1-4">[]</a>
 
-### Invite people into your group<a id="sec-1-4-1" name="sec-1-4-1">[]</a>
+### Invite people into the slack group<a id="sec-1-4-1" name="sec-1-4-1">[]</a>
 
     XXX, I have created a DevOps slack group recently. A private group. By invitation only.
     
@@ -106,6 +107,16 @@ Similar Projects:
     Super nice. Probably you will see some old friends there.
     
     Send me a private message, when you're in.
+
+### Invite people to #blog-review<a id="sec-1-4-2" name="sec-1-4-2">[]</a>
+
+    XX, we have a private channel: #blog-review. 
+    
+    It's for IT bloggers. We give review for each other, before publishing them to public.
+    
+    Do you want to join? 
+    
+    And it's perfectly fine, if you skip this.
 
 ## Recommended Books<a id="sec-1-5" name="sec-1-5">[]</a>
 
