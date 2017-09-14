@@ -16,8 +16,9 @@
 <li><a href="#sec-1-2">1.2. Lessons learned</a>
 <ul>
 <li><a href="#sec-1-2-1">1.2.1. Setup right expectation for each activity</a></li>
-<li><a href="#sec-1-2-2">1.2.2. Don't get discussion distracted. Timing is important.</a></li>
-<li><a href="#sec-1-2-3">1.2.3. Get more attention first, before pouring too much information</a></li>
+<li><a href="#sec-1-2-2">1.2.2. Only include people into discussion which he/she personally is interested.</a></li>
+<li><a href="#sec-1-2-3">1.2.3. Get more attention first; Pouring too much information is bad and useless.</a></li>
+<li><a href="#sec-1-2-4">1.2.4. Don't get discussion distracted. Timing is important.</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-3">1.3. Routine tasks</a>
@@ -74,9 +75,11 @@ Similar Projects:
 
 ### Setup right expectation for each activity<a id="sec-1-2-1" name="sec-1-2-1">[]</a>
 
-### Don't get discussion distracted. Timing is important.<a id="sec-1-2-2" name="sec-1-2-2">[]</a>
+### Only include people into discussion which he/she personally is interested.<a id="sec-1-2-2" name="sec-1-2-2">[]</a>
 
-### Get more attention first, before pouring too much information<a id="sec-1-2-3" name="sec-1-2-3">[]</a>
+### Get more attention first; Pouring too much information is bad and useless.<a id="sec-1-2-3" name="sec-1-2-3">[]</a>
+
+### Don't get discussion distracted. Timing is important.<a id="sec-1-2-4" name="sec-1-2-4">[]</a>
 
 ## Routine tasks<a id="sec-1-3" name="sec-1-3">[]</a>
 

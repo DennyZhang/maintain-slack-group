@@ -26,8 +26,9 @@ Similar Projects:
 *** Ask people to take actions, but only the mininum actions
 ** Lessons learned
 *** Setup right expectation for each activity
+*** Only include people into discussion which he/she personally is interested.
+*** Get more attention first; Pouring too much information is bad and useless.
 *** Don't get discussion distracted. Timing is important.
-*** Get more attention first, before pouring too much information
 ** Routine tasks
 *** Collect and share interested and related stuff
 *** As maintainers, keep asking yourself: what beneift people can get from the group today.
