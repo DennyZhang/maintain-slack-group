@@ -6,7 +6,7 @@
 <ul>
 <li><a href="#sec-1-1">1.1. Principle</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. Make friends with all active users</a></li>
+<li><a href="#sec-1-1-1">1.1.1. Make friends with all active users&#xa0;&#xa0;&#xa0;<span class="tag"><span class="test">test</span></span></a></li>
 <li><a href="#sec-1-1-2">1.1.2. Don't make people feel forced to do anything. It should come from themselves.</a></li>
 <li><a href="#sec-1-1-3">1.1.3. It's all about the audience.</a></li>
 <li><a href="#sec-1-1-4">1.1.4. You should enjoy and learn from all the conversations.</a></li>
@@ -62,7 +62,7 @@ Similar Projects:
 
 ## Principle<a id="sec-1-1" name="sec-1-1">[]</a>
 
-### Make friends with all active users<a id="sec-1-1-1" name="sec-1-1-1">[]</a>
+### Make friends with all active users     :test:<a id="sec-1-1-1" name="sec-1-1-1">[]</a>
 
 ### Don't make people feel forced to do anything. It should come from themselves.<a id="sec-1-1-2" name="sec-1-1-2">[]</a>
 

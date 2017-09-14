@@ -1,5 +1,5 @@
 #+TAGS: noexport(n)
-#+OPTIONS: toc:3 \n:t ^:nil creator:nil d:nil
+#+OPTIONS: toc:3 \n:t
 #+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * How To Maintain An Active Slack Group For Mutual Benefits
@@ -19,7 +19,7 @@ Similar Projects:
 
 --------------------------------------------------------
 ** Principle
-*** Make friends with all active users
+*** Make friends with all active users   :test:
 *** Don't make people feel forced to do anything. It should come from themselves.
 *** It's all about the audience.
 *** You should enjoy and learn from all the conversations.
