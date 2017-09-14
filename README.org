@@ -1,0 +1,50 @@
+#+TAGS: noexport(n)
+#+OPTIONS: toc:3 \n:t ^:nil creator:nil d:nil
+#+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
+#+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
+* How To Maintain An Active Slack Group For Mutual Benefits
+#+BEGIN_HTML
+<a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
+<a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
+<a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
+#+END_HTML
+
+- File me [tickets](https://github.com/DennyZhang/maintain-slack-group/issues) or star [this github repo](https://github.com/DennyZhang/maintain-slack-group)
+
+Similar Projects: 
+- Github: [[https://github.com/DennyZhang/developer-technical-selling][Do a better technical selling as a developer]]
+- Github: [[https://github.com/DennyZhang/linkedin-grow-influence][How To Improve Professional Influence In Linkedin]]
+- Github: [[https://github.com/DennyZhang/maintain-github-repos][Maintain Github Projects For Bigger Influence]]
+- Github: [[https://github.com/DennyZhang/maintain-slack-group][How To Maintain An Active Slack Group For Mutual Benefits]]
+
+--------------------------------------------------------
+
+** Principle
+*** Make friends with all active users
+*** Don't make people feel forced to do anything. It should come from themselves.
+*** It's all about the audience.
+*** You should enjoy and learn from all the conversations.
+** Routine tasks
+*** Collect and share interested and related stuff
+*** As maintainers, keep asking yourself: what beneift people can get from the group today.
+*** Whenever a new memeber join, send him/her a warm welcome message
+*** Keep starting private 1-1 conversations.
+** Lessons learned
+*** Setup right expectation for each activity
+** Recommended Books
+- TODO
+** Doc Template
+*** Invite people into your group
+#+BEGIN_EXAMPLE
+XXX, I have created a DevOps slack group recently. A private group. By invitation only.
+
+Would you like to join it?
+
+(It's totally fine if you choose to skip)
+
+https://yourfakechannel.slack.com/
+
+Super nice. Probably you will see some old friends there.
+
+Send me a private message, when you're in.
+#+END_EXAMPLE
