@@ -13,27 +13,27 @@
 <li><a href="#sec-1-1-5">1.1.5. Ask people to take actions, but only the mininum actions</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-2">1.2. Routine tasks</a>
+<li><a href="#sec-1-2">1.2. Lessons learned</a>
 <ul>
-<li><a href="#sec-1-2-1">1.2.1. Collect and share interested and related stuff</a></li>
-<li><a href="#sec-1-2-2">1.2.2. As maintainers, keep asking yourself: what beneift people can get from the group today.</a></li>
-<li><a href="#sec-1-2-3">1.2.3. Whenever a new memeber join, send him/her a warm welcome message</a></li>
-<li><a href="#sec-1-2-4">1.2.4. Keep starting private 1-1 conversations.</a></li>
+<li><a href="#sec-1-2-1">1.2.1. Setup right expectation for each activity</a></li>
+<li><a href="#sec-1-2-2">1.2.2. Don't get discussion distracted. Timing is important.</a></li>
+<li><a href="#sec-1-2-3">1.2.3. Get more attention first, before pouring too much information</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. Lessons learned</a>
+<li><a href="#sec-1-3">1.3. Routine tasks</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. Setup right expectation for each activity</a></li>
-<li><a href="#sec-1-3-2">1.3.2. Don't get discussion distracted. Timing is important.</a></li>
-<li><a href="#sec-1-3-3">1.3.3. Get more attention first, before pouring too much information</a></li>
+<li><a href="#sec-1-3-1">1.3.1. Collect and share interested and related stuff</a></li>
+<li><a href="#sec-1-3-2">1.3.2. As maintainers, keep asking yourself: what beneift people can get from the group today.</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Whenever a new memeber join, send him/her a warm welcome message</a></li>
+<li><a href="#sec-1-3-4">1.3.4. Keep starting private 1-1 conversations.</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-4">1.4. Recommended Books</a></li>
-<li><a href="#sec-1-5">1.5. Doc Template</a>
+<li><a href="#sec-1-4">1.4. Doc Template</a>
 <ul>
-<li><a href="#sec-1-5-1">1.5.1. Invite people into your group</a></li>
+<li><a href="#sec-1-4-1">1.4.1. Invite people into your group</a></li>
 </ul>
 </li>
+<li><a href="#sec-1-5">1.5. Recommended Books</a></li>
 </ul>
 </li>
 </ul>
@@ -70,31 +70,27 @@ Similar Projects:
 
 ### Ask people to take actions, but only the mininum actions<a id="sec-1-1-5" name="sec-1-1-5">[]</a>
 
-## Routine tasks<a id="sec-1-2" name="sec-1-2">[]</a>
+## Lessons learned<a id="sec-1-2" name="sec-1-2">[]</a>
 
-### Collect and share interested and related stuff<a id="sec-1-2-1" name="sec-1-2-1">[]</a>
+### Setup right expectation for each activity<a id="sec-1-2-1" name="sec-1-2-1">[]</a>
 
-### As maintainers, keep asking yourself: what beneift people can get from the group today.<a id="sec-1-2-2" name="sec-1-2-2">[]</a>
+### Don't get discussion distracted. Timing is important.<a id="sec-1-2-2" name="sec-1-2-2">[]</a>
 
-### Whenever a new memeber join, send him/her a warm welcome message<a id="sec-1-2-3" name="sec-1-2-3">[]</a>
+### Get more attention first, before pouring too much information<a id="sec-1-2-3" name="sec-1-2-3">[]</a>
 
-### Keep starting private 1-1 conversations.<a id="sec-1-2-4" name="sec-1-2-4">[]</a>
+## Routine tasks<a id="sec-1-3" name="sec-1-3">[]</a>
 
-## Lessons learned<a id="sec-1-3" name="sec-1-3">[]</a>
+### Collect and share interested and related stuff<a id="sec-1-3-1" name="sec-1-3-1">[]</a>
 
-### Setup right expectation for each activity<a id="sec-1-3-1" name="sec-1-3-1">[]</a>
+### As maintainers, keep asking yourself: what beneift people can get from the group today.<a id="sec-1-3-2" name="sec-1-3-2">[]</a>
 
-### Don't get discussion distracted. Timing is important.<a id="sec-1-3-2" name="sec-1-3-2">[]</a>
+### Whenever a new memeber join, send him/her a warm welcome message<a id="sec-1-3-3" name="sec-1-3-3">[]</a>
 
-### Get more attention first, before pouring too much information<a id="sec-1-3-3" name="sec-1-3-3">[]</a>
+### Keep starting private 1-1 conversations.<a id="sec-1-3-4" name="sec-1-3-4">[]</a>
 
-## Recommended Books<a id="sec-1-4" name="sec-1-4">[]</a>
+## Doc Template<a id="sec-1-4" name="sec-1-4">[]</a>
 
--   TODO
-
-## Doc Template<a id="sec-1-5" name="sec-1-5">[]</a>
-
-### Invite people into your group<a id="sec-1-5-1" name="sec-1-5-1">[]</a>
+### Invite people into your group<a id="sec-1-4-1" name="sec-1-4-1">[]</a>
 
     XXX, I have created a DevOps slack group recently. A private group. By invitation only.
     
@@ -107,3 +103,7 @@ Similar Projects:
     Super nice. Probably you will see some old friends there.
     
     Send me a private message, when you're in.
+
+## Recommended Books<a id="sec-1-5" name="sec-1-5">[]</a>
+
+-   TODO

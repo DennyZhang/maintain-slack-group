@@ -24,17 +24,15 @@ Similar Projects:
 *** It's all about the audience.
 *** You should enjoy and learn from all the conversations.
 *** Ask people to take actions, but only the mininum actions
+** Lessons learned
+*** Setup right expectation for each activity
+*** Don't get discussion distracted. Timing is important.
+*** Get more attention first, before pouring too much information
 ** Routine tasks
 *** Collect and share interested and related stuff
 *** As maintainers, keep asking yourself: what beneift people can get from the group today.
 *** Whenever a new memeber join, send him/her a warm welcome message
 *** Keep starting private 1-1 conversations.
-** Lessons learned
-*** Setup right expectation for each activity
-*** Don't get discussion distracted. Timing is important.
-*** Get more attention first, before pouring too much information
-** Recommended Books
-- TODO
 ** Doc Template
 *** Invite people into your group
 #+BEGIN_EXAMPLE
@@ -50,3 +48,5 @@ Super nice. Probably you will see some old friends there.
 
 Send me a private message, when you're in.
 #+END_EXAMPLE
+** Recommended Books
+- TODO
