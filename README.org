@@ -11,7 +11,7 @@
 
 - File me [tickets](https://github.com/DennyZhang/maintain-slack-group/issues) or star [this github repo](https://github.com/DennyZhang/maintain-slack-group)
 
-Similar Projects: 
+Similar Projects:
 - Github: [[https://github.com/DennyZhang/developer-technical-selling][Do a better technical selling as a developer]]
 - Github: [[https://github.com/DennyZhang/linkedin-grow-influence][How To Improve Professional Influence In Linkedin]]
 - Github: [[https://github.com/DennyZhang/maintain-github-repos][Maintain Github Projects For Bigger Influence]]
@@ -19,7 +19,7 @@ Similar Projects:
 
 --------------------------------------------------------
 ** Principle
-*** Make friends with all active users   :test:
+*** Make friends with all active users
 *** Don't make people feel forced to do anything. It should come from themselves.
 *** It's all about the audience.
 *** You should enjoy and learn from all the conversations.
@@ -51,11 +51,11 @@ Send me a private message, when you're in.
 #+END_EXAMPLE
 *** Invite people to #blog-review
 #+BEGIN_EXAMPLE
-XX, we have a private channel: #blog-review. 
+XX, we have a private channel: #blog-review.
 
 It's for IT bloggers. We give review for each other, before publishing them to public.
 
-Do you want to join? 
+Do you want to join?
 
 And it's perfectly fine, if you skip this.
 #+END_EXAMPLE
