@@ -105,9 +105,15 @@ Similar Projects:
     
     https://yourfakechannel.slack.com/
     
-    Super nice. Probably you will see some old friends there.
+    --8<-------------------------- separator ------------------------>8--
+    https://www.dennyzhang.com/slack
+    Send me a private message, when you're there.
     
-    Send me a private message, when you're in.
+    Probably you will see some old friends there.
+    --8<-------------------------- separator ------------------------>8--
+    
+    Slack helps to keep me closer to my friends, compared to LinkedIn
+    --8<-------------------------- separator ------------------------>8--
 
 ### Invite people to #blog-review<a id="sec-1-4-2" name="sec-1-4-2"></a>
 
