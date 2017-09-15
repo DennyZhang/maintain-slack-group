@@ -6,11 +6,12 @@
 <ul>
 <li><a href="#sec-1-1">1.1. Principle</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. Make friends with all active users</a></li>
-<li><a href="#sec-1-1-2">1.1.2. Don't make people feel forced to do anything. It should come from themselves.</a></li>
-<li><a href="#sec-1-1-3">1.1.3. It's all about the audience.</a></li>
-<li><a href="#sec-1-1-4">1.1.4. You should enjoy and learn from all the conversations.</a></li>
-<li><a href="#sec-1-1-5">1.1.5. Ask people to take actions, but only the mininum actions</a></li>
+<li><a href="#sec-1-1-1">1.1.1. Ask yourself: What values each of your message bring to the audience</a></li>
+<li><a href="#sec-1-1-2">1.1.2. Make friends with all active users</a></li>
+<li><a href="#sec-1-1-3">1.1.3. Don't make people feel forced to do anything. It should come from themselves.</a></li>
+<li><a href="#sec-1-1-4">1.1.4. It's all about the audience.</a></li>
+<li><a href="#sec-1-1-5">1.1.5. You should enjoy and learn from all the conversations.</a></li>
+<li><a href="#sec-1-1-6">1.1.6. Ask people to take actions, but only the mininum actions</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-2">1.2. Lessons learned</a>
@@ -23,10 +24,11 @@
 </li>
 <li><a href="#sec-1-3">1.3. Routine tasks</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. Collect and share interested and related stuff</a></li>
-<li><a href="#sec-1-3-2">1.3.2. As maintainers, keep asking yourself: what beneift people can get from the group today.</a></li>
-<li><a href="#sec-1-3-3">1.3.3. Whenever a new memeber join, send him/her a warm welcome message</a></li>
-<li><a href="#sec-1-3-4">1.3.4. Keep starting private 1-1 conversations.</a></li>
+<li><a href="#sec-1-3-1">1.3.1. Every morning takes 10 minutes: Say hi to whoever online in your slack group.</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Collect and share interested and related stuff</a></li>
+<li><a href="#sec-1-3-3">1.3.3. As maintainers, keep asking yourself: what beneift people can get from the group today.</a></li>
+<li><a href="#sec-1-3-4">1.3.4. Whenever a new memeber join, send him/her a warm welcome message</a></li>
+<li><a href="#sec-1-3-5">1.3.5. Keep starting private 1-1 conversations.</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Doc Template</a>
@@ -63,15 +65,19 @@ Similar Projects:
 
 ## Principle<a id="sec-1-1" name="sec-1-1"></a>
 
-### Make friends with all active users<a id="sec-1-1-1" name="sec-1-1-1"></a>
+### Ask yourself: What values each of your message bring to the audience<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
-### Don't make people feel forced to do anything. It should come from themselves.<a id="sec-1-1-2" name="sec-1-1-2"></a>
+The world is already very nosiy. Bring values, instead of wasting people's time.  
 
-### It's all about the audience.<a id="sec-1-1-3" name="sec-1-1-3"></a>
+### Make friends with all active users<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
-### You should enjoy and learn from all the conversations.<a id="sec-1-1-4" name="sec-1-1-4"></a>
+### Don't make people feel forced to do anything. It should come from themselves.<a id="sec-1-1-3" name="sec-1-1-3"></a>
 
-### Ask people to take actions, but only the mininum actions<a id="sec-1-1-5" name="sec-1-1-5"></a>
+### It's all about the audience.<a id="sec-1-1-4" name="sec-1-1-4"></a>
+
+### You should enjoy and learn from all the conversations.<a id="sec-1-1-5" name="sec-1-1-5"></a>
+
+### Ask people to take actions, but only the mininum actions<a id="sec-1-1-6" name="sec-1-1-6"></a>
 
 ## Lessons learned<a id="sec-1-2" name="sec-1-2"></a>
 
@@ -85,13 +91,15 @@ Similar Projects:
 
 ## Routine tasks<a id="sec-1-3" name="sec-1-3"></a>
 
-### Collect and share interested and related stuff<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### Every morning takes 10 minutes: Say hi to whoever online in your slack group.<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
-### As maintainers, keep asking yourself: what beneift people can get from the group today.<a id="sec-1-3-2" name="sec-1-3-2"></a>
+### Collect and share interested and related stuff<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
-### Whenever a new memeber join, send him/her a warm welcome message<a id="sec-1-3-3" name="sec-1-3-3"></a>
+### As maintainers, keep asking yourself: what beneift people can get from the group today.<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
-### Keep starting private 1-1 conversations.<a id="sec-1-3-4" name="sec-1-3-4"></a>
+### Whenever a new memeber join, send him/her a warm welcome message<a id="sec-1-3-4" name="sec-1-3-4"></a>
+
+### Keep starting private 1-1 conversations.<a id="sec-1-3-5" name="sec-1-3-5"></a>
 
 ## Doc Template<a id="sec-1-4" name="sec-1-4"></a>
 
@@ -112,7 +120,9 @@ Similar Projects:
     Probably you will see some old friends there.
     --8<-------------------------- separator ------------------------>8--
     
-    Slack helps to keep me closer to my friends, compared to LinkedIn
+    Slack helps to keep me closer to my friends, compared to LinkedIn.
+    
+    Last time I "wasted" 5 minutes to find one old conversation in LinkedIn.
     --8<-------------------------- separator ------------------------>8--
 
 ### Invite people to #blog-review<a id="sec-1-4-2" name="sec-1-4-2"></a>
