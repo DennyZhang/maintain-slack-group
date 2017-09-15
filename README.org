@@ -60,10 +60,12 @@ Do you want to join?
 And it's perfectly fine, if you skip this.
 #+END_EXAMPLE
 *** Invite people to #chinese
+#+BEGIN_EXAMPLE
 There is a private channel in this group: #chinese
 
 People type Chinese there.
 
 Do you want to join?
+#+END_EXAMPLE
 ** Recommended Books
 - TODO

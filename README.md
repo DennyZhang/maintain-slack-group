@@ -121,11 +121,11 @@ Similar Projects:
 
 ### Invite people to #chinese<a id="sec-1-4-3" name="sec-1-4-3"></a>
 
-There is a private channel in this group: #chinese  
-
-People type Chinese there.  
-
-Do you want to join?  
+    There is a private channel in this group: #chinese
+    
+    People type Chinese there.
+    
+    Do you want to join?
 
 ## Recommended Books<a id="sec-1-5" name="sec-1-5"></a>
 
