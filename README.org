@@ -52,7 +52,9 @@ Send me a private message, when you're there.
 Probably you will see some old friends there.
 --8<-------------------------- separator ------------------------>8--
 
-Slack helps to keep me closer to my friends, compared to LinkedIn
+Slack helps to keep me closer to my friends, compared to LinkedIn.
+
+Last time I "wasted" 5 minutes to find one old conversation in LinkedIn.
 --8<-------------------------- separator ------------------------>8--
 
 #+END_EXAMPLE
