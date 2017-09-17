@@ -28,14 +28,16 @@
 <li><a href="#sec-1-3-2">1.3.2. Collect and share interested and related stuff</a></li>
 <li><a href="#sec-1-3-3">1.3.3. As maintainers, keep asking yourself: what beneift people can get from the group today.</a></li>
 <li><a href="#sec-1-3-4">1.3.4. Whenever a new memeber join, send him/her a warm welcome message</a></li>
-<li><a href="#sec-1-3-5">1.3.5. Keep starting private 1-1 conversations.</a></li>
+<li><a href="#sec-1-3-5">1.3.5. Ask people to add linkedin endorsement or recommendations for mentors in your group</a></li>
+<li><a href="#sec-1-3-6">1.3.6. Keep starting private 1-1 conversations.</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Doc Template</a>
 <ul>
-<li><a href="#sec-1-4-1">1.4.1. Invite people into the slack group</a></li>
-<li><a href="#sec-1-4-2">1.4.2. Invite people to #blog-review</a></li>
-<li><a href="#sec-1-4-3">1.4.3. Invite people to #chinese</a></li>
+<li><a href="#sec-1-4-1">1.4.1. doc: Invite people into the slack group</a></li>
+<li><a href="#sec-1-4-2">1.4.2. doc: Invite people to #blog-review</a></li>
+<li><a href="#sec-1-4-3">1.4.3. doc: Invite people to #chinese</a></li>
+<li><a href="#sec-1-4-4">1.4.4. doc: Ask people to give other people skills or recommendations</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-5">1.5. Recommended Books</a></li>
@@ -93,11 +95,13 @@ The world is already very nosiy. Bring values, instead of wasting people's time.
 
 ### Whenever a new memeber join, send him/her a warm welcome message<a id="sec-1-3-4" name="sec-1-3-4"></a>
 
-### Keep starting private 1-1 conversations.<a id="sec-1-3-5" name="sec-1-3-5"></a>
+### Ask people to add linkedin endorsement or recommendations for mentors in your group<a id="sec-1-3-5" name="sec-1-3-5"></a>
+
+### Keep starting private 1-1 conversations.<a id="sec-1-3-6" name="sec-1-3-6"></a>
 
 ## Doc Template<a id="sec-1-4" name="sec-1-4"></a>
 
-### Invite people into the slack group<a id="sec-1-4-1" name="sec-1-4-1"></a>
+### doc: Invite people into the slack group<a id="sec-1-4-1" name="sec-1-4-1"></a>
 
     XXX, I have created a DevOps slack group recently. A private group. By invitation only.
     
@@ -119,7 +123,7 @@ The world is already very nosiy. Bring values, instead of wasting people's time.
     Last time I "wasted" 5 minutes to find one old conversation in LinkedIn.
     --8<-------------------------- separator ------------------------>8--
 
-### Invite people to #blog-review<a id="sec-1-4-2" name="sec-1-4-2"></a>
+### doc: Invite people to #blog-review<a id="sec-1-4-2" name="sec-1-4-2"></a>
 
     XX, we have a private channel: #blog-review.
     
@@ -129,13 +133,24 @@ The world is already very nosiy. Bring values, instead of wasting people's time.
     
     And it's perfectly fine, if you skip this.
 
-### Invite people to #chinese<a id="sec-1-4-3" name="sec-1-4-3"></a>
+### doc: Invite people to #chinese<a id="sec-1-4-3" name="sec-1-4-3"></a>
 
     There is a private channel in this group: #chinese
     
     People type Chinese there.
     
     Do you want to join?
+
+### doc: Ask people to give other people skills or recommendations<a id="sec-1-4-4" name="sec-1-4-4"></a>
+
+Denny Zhang [7 minutes ago]  
+XXX That’s great! Glad YYY has lots of useful input for you and the time spent for helping out.  
+
+XXX, If you would like to endorse some of his LinkedIn skills or write a LinkedIn recommendation.  
+
+Here is his LinkedIn Profile <https://www.linkedin.com/in/XXX>  
+
+Just my suggestions. Your choice for sure.  
 
 ## Recommended Books<a id="sec-1-5" name="sec-1-5"></a>
 

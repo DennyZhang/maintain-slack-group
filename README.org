@@ -31,9 +31,10 @@ The world is already very nosiy. Bring values, instead of wasting people's time.
 *** Collect and share interested and related stuff
 *** As maintainers, keep asking yourself: what beneift people can get from the group today.
 *** Whenever a new memeber join, send him/her a warm welcome message
+*** Ask people to add linkedin endorsement or recommendations for mentors in your group
 *** Keep starting private 1-1 conversations.
 ** Doc Template
-*** Invite people into the slack group
+*** doc: Invite people into the slack group
 #+BEGIN_EXAMPLE
 XXX, I have created a DevOps slack group recently. A private group. By invitation only.
 
@@ -56,7 +57,7 @@ Last time I "wasted" 5 minutes to find one old conversation in LinkedIn.
 --8<-------------------------- separator ------------------------>8--
 
 #+END_EXAMPLE
-*** Invite people to #blog-review
+*** doc: Invite people to #blog-review
 #+BEGIN_EXAMPLE
 XX, we have a private channel: #blog-review.
 
@@ -66,7 +67,7 @@ Do you want to join?
 
 And it's perfectly fine, if you skip this.
 #+END_EXAMPLE
-*** Invite people to #chinese
+*** doc: Invite people to #chinese
 #+BEGIN_EXAMPLE
 There is a private channel in this group: #chinese
 
@@ -74,5 +75,14 @@ People type Chinese there.
 
 Do you want to join?
 #+END_EXAMPLE
+*** doc: Ask people to give other people skills or recommendations
+Denny Zhang [7 minutes ago] 
+XXX That’s great! Glad YYY has lots of useful input for you and the time spent for helping out.
+
+XXX, If you would like to endorse some of his LinkedIn skills or write a LinkedIn recommendation.
+
+Here is his LinkedIn Profile https://www.linkedin.com/in/XXX
+
+Just my suggestions. Your choice for sure.
 ** Recommended Books
 - TODO
