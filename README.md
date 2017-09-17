@@ -143,14 +143,10 @@ The world is already very nosiy. Bring values, instead of wasting people's time.
 
 ### doc: Ask people to give other people skills or recommendations<a id="sec-1-4-4" name="sec-1-4-4"></a>
 
-Denny Zhang [7 minutes ago]  
-XXX That’s great! Glad YYY has lots of useful input for you and the time spent for helping out.  
-
-XXX, If you would like to endorse some of his LinkedIn skills or write a LinkedIn recommendation.  
-
-Here is his LinkedIn Profile <https://www.linkedin.com/in/XXX>  
-
-Just my suggestions. Your choice for sure.  
+    XXX, Glad YY has helped you a lot.
+    
+    Wanna give him some credits?
+    https://www.dennyzhang.com/group_contact
 
 ## Recommended Books<a id="sec-1-5" name="sec-1-5"></a>
 

@@ -76,13 +76,11 @@ People type Chinese there.
 Do you want to join?
 #+END_EXAMPLE
 *** doc: Ask people to give other people skills or recommendations
-Denny Zhang [7 minutes ago] 
-XXX That’s great! Glad YYY has lots of useful input for you and the time spent for helping out.
+#+BEGIN_EXAMPLE
+XXX, Glad YY has helped you a lot.
 
-XXX, If you would like to endorse some of his LinkedIn skills or write a LinkedIn recommendation.
-
-Here is his LinkedIn Profile https://www.linkedin.com/in/XXX
-
-Just my suggestions. Your choice for sure.
+Wanna give him some credits?
+https://www.dennyzhang.com/group_contact
+#+END_EXAMPLE
 ** Recommended Books
 - TODO
