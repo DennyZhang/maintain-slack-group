@@ -103,7 +103,6 @@ The world is already very nosiy. Bring values, instead of wasting people's time.
     Slack helps to keep me closer to my friends, compared to LinkedIn.
     
     Last time I "wasted" 5 minutes to find one old conversation in LinkedIn.
-    --8<-------------------------- separator ------------------------>8--
 
 ### doc: Invite people to #blog-review<a id="sec-1-4-2" name="sec-1-4-2"></a>
 

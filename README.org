@@ -59,8 +59,6 @@ Probably you will see some old friends there.
 Slack helps to keep me closer to my friends, compared to LinkedIn.
 
 Last time I "wasted" 5 minutes to find one old conversation in LinkedIn.
---8<-------------------------- separator ------------------------>8--
-
 #+END_EXAMPLE
 *** doc: Invite people to #blog-review
 #+BEGIN_EXAMPLE
