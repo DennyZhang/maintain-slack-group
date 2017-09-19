@@ -15,25 +15,29 @@
 
 --------------------------------------------------------
 ** Principle
-*** Ask yourself: What values each of your message bring to the audience
+- Value Stream Of Your group Ask yourself
+What values each of your message bring to the audience
 The world is already very nosiy. Bring values, instead of wasting people's time.
-*** Make friends with all active users
-*** Don't make people feel forced to do anything. It should come from themselves.
-*** It's all about the audience.
-*** You should enjoy and learn from all the conversations.
-*** Ask people to take actions, but only the mininum actions
+- Make friends with all active users
+- Don't make people feel forced to do anything. It should come from themselves.
+- It's all about the audience.
+- You should enjoy and learn from all the conversations.
+- Ask people to take actions, but only the mininum actions
 ** Lessons learned
-*** Setup right expectation for each activity
-*** Only include people into discussion which he/she personally is interested.
-*** Get more attention first; Pouring too much information is bad and useless.
-*** Don't get discussion distracted. Timing is important.
+- Setup right expectation for each activity
+- Only include people into discussion which he/she personally is interested.
+- Get more attention first; Pouring too much information is bad and useless.
+- Don't get discussion distracted. Timing is important.
 ** Routine tasks
-*** Every morning takes 10 minutes: Say hi to whoever online in your slack group.
-*** Collect and share interested and related stuff
-*** As maintainers, keep asking yourself: what beneift people can get from the group today.
-*** Whenever a new memeber join, send him/her a warm welcome message
-*** Ask people to add linkedin endorsement or recommendations for mentors in your group
-*** Keep starting private 1-1 conversations.
+*** Old Friends
+- Every morning takes 10 minutes: Say hi to whoever online in your slack group.
+- Keep starting private 1-1 conversations.
+*** Content
+- Collect and share interested and related stuff
+*** New Friends
+- Whenever a new memeber join, send him/her a warm welcome message
+*** Value Stream
+- Ask people to add linkedin endorsement or recommendations for mentors in your group
 ** Doc Template
 *** doc: Invite people into the slack group
 #+BEGIN_EXAMPLE

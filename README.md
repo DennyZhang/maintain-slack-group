@@ -4,32 +4,14 @@
 <ul>
 <li><a href="#sec-1">1. How To Maintain An Active Slack Group For Mutual Benefits</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Principle</a>
-<ul>
-<li><a href="#sec-1-1-1">1.1.1. Ask yourself: What values each of your message bring to the audience</a></li>
-<li><a href="#sec-1-1-2">1.1.2. Make friends with all active users</a></li>
-<li><a href="#sec-1-1-3">1.1.3. Don't make people feel forced to do anything. It should come from themselves.</a></li>
-<li><a href="#sec-1-1-4">1.1.4. It's all about the audience.</a></li>
-<li><a href="#sec-1-1-5">1.1.5. You should enjoy and learn from all the conversations.</a></li>
-<li><a href="#sec-1-1-6">1.1.6. Ask people to take actions, but only the mininum actions</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-2">1.2. Lessons learned</a>
-<ul>
-<li><a href="#sec-1-2-1">1.2.1. Setup right expectation for each activity</a></li>
-<li><a href="#sec-1-2-2">1.2.2. Only include people into discussion which he/she personally is interested.</a></li>
-<li><a href="#sec-1-2-3">1.2.3. Get more attention first; Pouring too much information is bad and useless.</a></li>
-<li><a href="#sec-1-2-4">1.2.4. Don't get discussion distracted. Timing is important.</a></li>
-</ul>
-</li>
+<li><a href="#sec-1-1">1.1. Principle</a></li>
+<li><a href="#sec-1-2">1.2. Lessons learned</a></li>
 <li><a href="#sec-1-3">1.3. Routine tasks</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. Every morning takes 10 minutes: Say hi to whoever online in your slack group.</a></li>
-<li><a href="#sec-1-3-2">1.3.2. Collect and share interested and related stuff</a></li>
-<li><a href="#sec-1-3-3">1.3.3. As maintainers, keep asking yourself: what beneift people can get from the group today.</a></li>
-<li><a href="#sec-1-3-4">1.3.4. Whenever a new memeber join, send him/her a warm welcome message</a></li>
-<li><a href="#sec-1-3-5">1.3.5. Ask people to add linkedin endorsement or recommendations for mentors in your group</a></li>
-<li><a href="#sec-1-3-6">1.3.6. Keep starting private 1-1 conversations.</a></li>
+<li><a href="#sec-1-3-1">1.3.1. Old Friends</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Content</a></li>
+<li><a href="#sec-1-3-3">1.3.3. New Friends</a></li>
+<li><a href="#sec-1-3-4">1.3.4. Value Stream</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Doc Template</a>
@@ -62,43 +44,42 @@
 
 ## Principle<a id="sec-1-1" name="sec-1-1"></a>
 
-### Ask yourself: What values each of your message bring to the audience<a id="sec-1-1-1" name="sec-1-1-1"></a>
+-   Value Stream Of Your group Ask yourself
 
+What values each of your message bring to the audience  
 The world is already very nosiy. Bring values, instead of wasting people's time.  
 
-### Make friends with all active users<a id="sec-1-1-2" name="sec-1-1-2"></a>
-
-### Don't make people feel forced to do anything. It should come from themselves.<a id="sec-1-1-3" name="sec-1-1-3"></a>
-
-### It's all about the audience.<a id="sec-1-1-4" name="sec-1-1-4"></a>
-
-### You should enjoy and learn from all the conversations.<a id="sec-1-1-5" name="sec-1-1-5"></a>
-
-### Ask people to take actions, but only the mininum actions<a id="sec-1-1-6" name="sec-1-1-6"></a>
+-   Make friends with all active users
+-   Don't make people feel forced to do anything. It should come from themselves.
+-   It's all about the audience.
+-   You should enjoy and learn from all the conversations.
+-   Ask people to take actions, but only the mininum actions
 
 ## Lessons learned<a id="sec-1-2" name="sec-1-2"></a>
 
-### Setup right expectation for each activity<a id="sec-1-2-1" name="sec-1-2-1"></a>
-
-### Only include people into discussion which he/she personally is interested.<a id="sec-1-2-2" name="sec-1-2-2"></a>
-
-### Get more attention first; Pouring too much information is bad and useless.<a id="sec-1-2-3" name="sec-1-2-3"></a>
-
-### Don't get discussion distracted. Timing is important.<a id="sec-1-2-4" name="sec-1-2-4"></a>
+-   Setup right expectation for each activity
+-   Only include people into discussion which he/she personally is interested.
+-   Get more attention first; Pouring too much information is bad and useless.
+-   Don't get discussion distracted. Timing is important.
 
 ## Routine tasks<a id="sec-1-3" name="sec-1-3"></a>
 
-### Every morning takes 10 minutes: Say hi to whoever online in your slack group.<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### Old Friends<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
-### Collect and share interested and related stuff<a id="sec-1-3-2" name="sec-1-3-2"></a>
+-   Every morning takes 10 minutes: Say hi to whoever online in your slack group.
+-   Keep starting private 1-1 conversations.
 
-### As maintainers, keep asking yourself: what beneift people can get from the group today.<a id="sec-1-3-3" name="sec-1-3-3"></a>
+### Content<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
-### Whenever a new memeber join, send him/her a warm welcome message<a id="sec-1-3-4" name="sec-1-3-4"></a>
+-   Collect and share interested and related stuff
 
-### Ask people to add linkedin endorsement or recommendations for mentors in your group<a id="sec-1-3-5" name="sec-1-3-5"></a>
+### New Friends<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
-### Keep starting private 1-1 conversations.<a id="sec-1-3-6" name="sec-1-3-6"></a>
+-   Whenever a new memeber join, send him/her a warm welcome message
+
+### Value Stream<a id="sec-1-3-4" name="sec-1-3-4"></a>
+
+-   Ask people to add linkedin endorsement or recommendations for mentors in your group
 
 ## Doc Template<a id="sec-1-4" name="sec-1-4"></a>
 
