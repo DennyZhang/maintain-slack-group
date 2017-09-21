@@ -87,3 +87,23 @@ https://www.dennyzhang.com/group_contact
 #+END_EXAMPLE
 ** Recommended Books
 - TODO
+** #  --8<-------------------------- separator ------------------------>8-- :noexport:
+** misc                                                            :noexport:
+*** DONE slack delete a channel: archive then close
+    CLOSED: [2017-09-21 Thu 12:31]
+
+*** DONE slack: we can't change private channels to public
+  CLOSED: [2017-09-21 Thu 12:39]
+https://stackoverflow.com/questions/40469457/turn-a-private-slack-channel-into-public
+You still can not convert a private channel into a public channel.
+
+*** DONE slack: configure a channel that only admin can post
+  CLOSED: [2017-09-21 Thu 12:47]
+https://webapps.stackexchange.com/questions/101687/how-to-restrict-who-can-post-on-a-channel-in-slack
+#+BEGIN_EXAMPLE
+You can rename #general to something more appropriate like "#announcements".
+
+Currently, you cannot restrict posting rights to other public channels than #general.
+#+END_EXAMPLE
+
+
