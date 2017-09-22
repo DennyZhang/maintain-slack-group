@@ -4,25 +4,26 @@
 <ul>
 <li><a href="#sec-1">1. How To Maintain An Active Slack Group For Mutual Benefits</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Principle</a></li>
-<li><a href="#sec-1-2">1.2. Lessons learned</a></li>
-<li><a href="#sec-1-3">1.3. Routine tasks</a>
+<li><a href="#sec-1-1">1.1. Slack Introduction</a></li>
+<li><a href="#sec-1-2">1.2. Principle</a></li>
+<li><a href="#sec-1-3">1.3. Lessons learned</a></li>
+<li><a href="#sec-1-4">1.4. Routine tasks</a>
 <ul>
-<li><a href="#sec-1-3-1">1.3.1. Old Friends</a></li>
-<li><a href="#sec-1-3-2">1.3.2. Content</a></li>
-<li><a href="#sec-1-3-3">1.3.3. New Friends</a></li>
-<li><a href="#sec-1-3-4">1.3.4. Value Stream</a></li>
+<li><a href="#sec-1-4-1">1.4.1. Old Friends</a></li>
+<li><a href="#sec-1-4-2">1.4.2. Content</a></li>
+<li><a href="#sec-1-4-3">1.4.3. New Friends</a></li>
+<li><a href="#sec-1-4-4">1.4.4. Value Stream</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-4">1.4. Doc Template</a>
+<li><a href="#sec-1-5">1.5. Doc Template</a>
 <ul>
-<li><a href="#sec-1-4-1">1.4.1. doc: Invite people into the slack group</a></li>
-<li><a href="#sec-1-4-2">1.4.2. doc: Invite people to #blog-review</a></li>
-<li><a href="#sec-1-4-3">1.4.3. doc: Invite people to #chinese</a></li>
-<li><a href="#sec-1-4-4">1.4.4. doc: Ask people to give other people skills or recommendations</a></li>
+<li><a href="#sec-1-5-1">1.5.1. doc: Invite people into the slack group</a></li>
+<li><a href="#sec-1-5-2">1.5.2. doc: Invite people to #blog-review</a></li>
+<li><a href="#sec-1-5-3">1.5.3. doc: Invite people to #chinese</a></li>
+<li><a href="#sec-1-5-4">1.5.4. doc: Ask people to give other people skills or recommendations</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-5">1.5. Recommended Books</a></li>
+<li><a href="#sec-1-6">1.6. Recommended Books</a></li>
 </ul>
 </li>
 </ul>
@@ -42,7 +43,11 @@
 
 ---
 
-## Principle<a id="sec-1-1" name="sec-1-1"></a>
+## Slack Introduction<a id="sec-1-1" name="sec-1-1"></a>
+
+-   Youtube: [Messaging in Slack](https://www.youtube.com/watch?v=JsX8V4hzENo)
+
+## Principle<a id="sec-1-2" name="sec-1-2"></a>
 
 -   Value Stream Of Your group Ask yourself
 
@@ -54,35 +59,35 @@ What values each of your message bring to the audience. The world is already ver
 -   You should enjoy and learn from all the conversations.
 -   Ask people to take actions, but only the mininum actions
 
-## Lessons learned<a id="sec-1-2" name="sec-1-2"></a>
+## Lessons learned<a id="sec-1-3" name="sec-1-3"></a>
 
 -   Setup right expectation for each activity
 -   Only include people into discussion which he/she personally is interested.
 -   Get more attention first; Pouring too much information is bad and useless.
 -   Don't get discussion distracted. Timing is important.
 
-## Routine tasks<a id="sec-1-3" name="sec-1-3"></a>
+## Routine tasks<a id="sec-1-4" name="sec-1-4"></a>
 
-### Old Friends<a id="sec-1-3-1" name="sec-1-3-1"></a>
+### Old Friends<a id="sec-1-4-1" name="sec-1-4-1"></a>
 
 -   Every morning takes 10 minutes: Say hi to whoever online in your slack group.
 -   Keep starting private 1-1 conversations.
 
-### Content<a id="sec-1-3-2" name="sec-1-3-2"></a>
+### Content<a id="sec-1-4-2" name="sec-1-4-2"></a>
 
 -   Collect and share interested and related stuff
 
-### New Friends<a id="sec-1-3-3" name="sec-1-3-3"></a>
+### New Friends<a id="sec-1-4-3" name="sec-1-4-3"></a>
 
 -   Whenever a new memeber join, send him/her a warm welcome message
 
-### Value Stream<a id="sec-1-3-4" name="sec-1-3-4"></a>
+### Value Stream<a id="sec-1-4-4" name="sec-1-4-4"></a>
 
 -   Ask people to add linkedin endorsement or recommendations for mentors in your group
 
-## Doc Template<a id="sec-1-4" name="sec-1-4"></a>
+## Doc Template<a id="sec-1-5" name="sec-1-5"></a>
 
-### doc: Invite people into the slack group<a id="sec-1-4-1" name="sec-1-4-1"></a>
+### doc: Invite people into the slack group<a id="sec-1-5-1" name="sec-1-5-1"></a>
 
     XXX, I have created a DevOps slack group recently. A private group. By invitation only.
     
@@ -103,7 +108,7 @@ What values each of your message bring to the audience. The world is already ver
     
     Last time I "wasted" 5 minutes to find one old conversation in LinkedIn.
 
-### doc: Invite people to #blog-review<a id="sec-1-4-2" name="sec-1-4-2"></a>
+### doc: Invite people to #blog-review<a id="sec-1-5-2" name="sec-1-5-2"></a>
 
     XX, we have a private channel: #blog-review.
     
@@ -113,7 +118,7 @@ What values each of your message bring to the audience. The world is already ver
     
     And it's perfectly fine, if you skip this.
 
-### doc: Invite people to #chinese<a id="sec-1-4-3" name="sec-1-4-3"></a>
+### doc: Invite people to #chinese<a id="sec-1-5-3" name="sec-1-5-3"></a>
 
     There is a private channel in this group: #chinese
     
@@ -121,13 +126,13 @@ What values each of your message bring to the audience. The world is already ver
     
     Do you want to join?
 
-### doc: Ask people to give other people skills or recommendations<a id="sec-1-4-4" name="sec-1-4-4"></a>
+### doc: Ask people to give other people skills or recommendations<a id="sec-1-5-4" name="sec-1-5-4"></a>
 
     XXX, Glad YY has helped you a lot.
     
     Wanna give him some credits?
     https://www.dennyzhang.com/group_contact
 
-## Recommended Books<a id="sec-1-5" name="sec-1-5"></a>
+## Recommended Books<a id="sec-1-6" name="sec-1-6"></a>
 
 -   TODO

@@ -14,6 +14,8 @@
 - [[https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories][Denny knowledge-base in Github]]
 
 --------------------------------------------------------
+** Slack Introduction
+- Youtube: [[https://www.youtube.com/watch?v=JsX8V4hzENo][Messaging in Slack]]
 ** Principle
 - Value Stream Of Your group Ask yourself
 What values each of your message bring to the audience. The world is already very nosiy. Bring values, instead of wasting people's time.
