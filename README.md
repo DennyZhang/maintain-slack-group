@@ -18,9 +18,8 @@
 <li><a href="#sec-1-5">1.5. Doc Template</a>
 <ul>
 <li><a href="#sec-1-5-1">1.5.1. doc: Invite people into the slack group</a></li>
-<li><a href="#sec-1-5-2">1.5.2. doc: Invite people to #blog-review</a></li>
-<li><a href="#sec-1-5-3">1.5.3. doc: Invite people to #chinese</a></li>
-<li><a href="#sec-1-5-4">1.5.4. doc: Ask people to give other people skills or recommendations</a></li>
+<li><a href="#sec-1-5-2">1.5.2. doc: Invite people to #it-blogger</a></li>
+<li><a href="#sec-1-5-3">1.5.3. doc: Ask people to give other people skills or recommendations</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-6">1.6. Recommended Books</a></li>
@@ -45,7 +44,7 @@
 
 ## Slack Introduction<a id="sec-1-1" name="sec-1-1"></a>
 
--   Youtube: [Messaging in Slack](https://www.youtube.com/watch?v=JsX8V4hzENo)
+-   Youtube: [Messaging in Slack](https://www.youtube.com/watch?v=JsX8V4hzENo), [15 Slack tips in 5 minutes](https://www.youtube.com/watch?v=gvJAcElFMUU)
 
 ## Principle<a id="sec-1-2" name="sec-1-2"></a>
 
@@ -108,9 +107,9 @@ What values each of your message bring to the audience. The world is already ver
     
     Last time I "wasted" 5 minutes to find one old conversation in LinkedIn.
 
-### doc: Invite people to #blog-review<a id="sec-1-5-2" name="sec-1-5-2"></a>
+### doc: Invite people to #it-blogger<a id="sec-1-5-2" name="sec-1-5-2"></a>
 
-    XX, we have a private channel: #blog-review.
+    XX, we have a channel: #blog-review.
     
     It's for IT bloggers. We give review for each other, before publishing them to public.
     
@@ -118,15 +117,7 @@ What values each of your message bring to the audience. The world is already ver
     
     And it's perfectly fine, if you skip this.
 
-### doc: Invite people to #chinese<a id="sec-1-5-3" name="sec-1-5-3"></a>
-
-    There is a private channel in this group: #chinese
-    
-    People type Chinese there.
-    
-    Do you want to join?
-
-### doc: Ask people to give other people skills or recommendations<a id="sec-1-5-4" name="sec-1-5-4"></a>
+### doc: Ask people to give other people skills or recommendations<a id="sec-1-5-3" name="sec-1-5-3"></a>
 
     XXX, Glad YY has helped you a lot.
     

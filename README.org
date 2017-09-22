@@ -15,7 +15,7 @@
 
 --------------------------------------------------------
 ** Slack Introduction
-- Youtube: [[https://www.youtube.com/watch?v=JsX8V4hzENo][Messaging in Slack]]
+- Youtube: [[https://www.youtube.com/watch?v=JsX8V4hzENo][Messaging in Slack]], [[https://www.youtube.com/watch?v=gvJAcElFMUU][15 Slack tips in 5 minutes]]
 ** Principle
 - Value Stream Of Your group Ask yourself
 What values each of your message bring to the audience. The world is already very nosiy. Bring values, instead of wasting people's time.
@@ -62,23 +62,15 @@ Slack helps to keep me closer to my friends, compared to LinkedIn.
 
 Last time I "wasted" 5 minutes to find one old conversation in LinkedIn.
 #+END_EXAMPLE
-*** doc: Invite people to #blog-review
+*** doc: Invite people to #it-blogger
 #+BEGIN_EXAMPLE
-XX, we have a private channel: #blog-review.
+XX, we have a channel: #blog-review.
 
 It's for IT bloggers. We give review for each other, before publishing them to public.
 
 Do you want to join?
 
 And it's perfectly fine, if you skip this.
-#+END_EXAMPLE
-*** doc: Invite people to #chinese
-#+BEGIN_EXAMPLE
-There is a private channel in this group: #chinese
-
-People type Chinese there.
-
-Do you want to join?
 #+END_EXAMPLE
 *** doc: Ask people to give other people skills or recommendations
 #+BEGIN_EXAMPLE
