@@ -107,3 +107,10 @@ Currently, you cannot restrict posting rights to other public channels than #gen
 #+END_EXAMPLE
 
 
+*** DONE slack: remove someone out of one channel
+  CLOSED: [2017-09-21 Thu 18:56]
+https://get.slack.help/hc/en-us/articles/201898668-Remove-someone-from-a-channel
+- Click the  show details icon at the top of the channel, to open the details pane.
+- In the Members list, click the person you'd like to remove.
+- Select Remove from channel.
+
