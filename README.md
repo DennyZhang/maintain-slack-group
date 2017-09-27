@@ -19,7 +19,8 @@
 <ul>
 <li><a href="#sec-1-5-1">1.5.1. doc: Invite people into the slack group</a></li>
 <li><a href="#sec-1-5-2">1.5.2. doc: Invite people to #it-blogger</a></li>
-<li><a href="#sec-1-5-3">1.5.3. doc: Ask people to give other people skills or recommendations</a></li>
+<li><a href="#sec-1-5-3">1.5.3. doc: Welcome message</a></li>
+<li><a href="#sec-1-5-4">1.5.4. doc: Ask people to give other people skills or recommendations</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-6">1.6. Recommended Books</a></li>
@@ -117,7 +118,31 @@ What values each of your message bring to the audience. The world is already ver
     
     And it's perfectly fine, if you skip this.
 
-### doc: Ask people to give other people skills or recommendations<a id="sec-1-5-3" name="sec-1-5-3"></a>
+### doc: Welcome message<a id="sec-1-5-3" name="sec-1-5-3"></a>
+
+    Denny Zhang [8:44 AM] 
+    Enri, welcome!
+    
+    
+    Enri Peters [8:55 AM] 
+    Hi!
+    
+    
+    [8:56] 
+    I have been following you for a while on LinkedIn. I like to read your messages 
+    and i thought it would be helpful for me to connect to this Slack channel
+    
+    Denny Zhang
+    [8:56 AM] 
+    My honor, Enri!
+    
+    
+    [8:58] 
+    Ping me or people here for any questions you’re interested, Enri.
+    
+    Hope I can better help you, and we help each others to grow faster.
+
+### doc: Ask people to give other people skills or recommendations<a id="sec-1-5-4" name="sec-1-5-4"></a>
 
     XXX, Glad YY has helped you a lot.
     

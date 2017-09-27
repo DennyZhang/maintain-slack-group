@@ -72,6 +72,30 @@ Do you want to join?
 
 And it's perfectly fine, if you skip this.
 #+END_EXAMPLE
+*** doc: Welcome message
+#+BEGIN_EXAMPLE
+Denny Zhang [8:44 AM] 
+Enri, welcome!
+
+
+Enri Peters [8:55 AM] 
+Hi!
+
+
+[8:56] 
+I have been following you for a while on LinkedIn. I like to read your messages 
+and i thought it would be helpful for me to connect to this Slack channel
+
+Denny Zhang
+[8:56 AM] 
+My honor, Enri!
+
+
+[8:58] 
+Ping me or people here for any questions you’re interested, Enri.
+
+Hope I can better help you, and we help each others to grow faster.
+#+END_EXAMPLE
 *** doc: Ask people to give other people skills or recommendations
 #+BEGIN_EXAMPLE
 XXX, Glad YY has helped you a lot.
