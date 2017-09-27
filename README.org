@@ -124,7 +124,6 @@ You can rename #general to something more appropriate like "#announcements".
 Currently, you cannot restrict posting rights to other public channels than #general.
 #+END_EXAMPLE
 
-
 *** DONE slack: remove someone out of one channel
   CLOSED: [2017-09-21 Thu 18:56]
 https://get.slack.help/hc/en-us/articles/201898668-Remove-someone-from-a-channel
