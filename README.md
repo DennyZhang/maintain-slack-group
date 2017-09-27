@@ -35,7 +35,7 @@
 
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
-<a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
+<a href="https://goo.gl/ozDDyL"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
 <a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
 
 -   File me [tickets](<https://github.com/DennyZhang/maintain-slack-group/issues>) or star [this github repo](<https://github.com/DennyZhang/maintain-slack-group>)
@@ -98,7 +98,7 @@ What values each of your message bring to the audience. The world is already ver
     https://yourfakechannel.slack.com/
     
     --8<-------------------------- separator ------------------------>8--
-    https://www.dennyzhang.com/slack
+    https://goo.gl/ozDDyL
     Send me a private message, when you're there. (My id is @dennyzhang)
     
     Probably you will see some old friends in that group.
