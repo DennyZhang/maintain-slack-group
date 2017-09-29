@@ -100,7 +100,9 @@ Hope I can better help you, and we help each others to grow faster.
 #+BEGIN_EXAMPLE
 XXX, Glad YY has helped you a lot.
 
-Wanna give him some credits?
+Wanna give him some credits? 
+
+Like his LinkedIn skills or write a LinkedIn recommendation
 https://www.dennyzhang.com/group_contact
 #+END_EXAMPLE
 ** Recommended Books
