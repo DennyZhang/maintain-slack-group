@@ -133,3 +133,27 @@ https://get.slack.help/hc/en-us/articles/201898668-Remove-someone-from-a-channel
 - In the Members list, click the person you'd like to remove.
 - Select Remove from channel.
 
+** CANCELED Slack improvement: Disable web link previews
+  CLOSED: [2017-10-08 Sun 21:31]
+Should we disable previews of web links in Slack? Any different opinions?
+
+https://webapps.stackexchange.com/questions/76084/permanently-disable-previews-in-slack
+
+** DONE slack improvement: reconfigure the default channels for new members :noexport:
+   CLOSED: [2017-10-08 Sun 21:32]
+
+** TODO slack improvement: avoid @ channel
+James Cornman [Today at 8:29 AM] 
+in #general
+Stop with the @ channel please
+
+
+
+1 reply
+Denny Zhang [< 1 minute ago] 
+@James Cornman
+
+Will check how to avoid people use @ channel.
+
+Copy @Guilherme Virtuoso
+
