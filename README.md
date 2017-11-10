@@ -35,7 +35,7 @@
 
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png" alt="github" /></a>
-<a href="https://goo.gl/ozDDyL"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/slack.png" alt="slack" /></a>
+<a href="https://www.dennyzhang.com/slack"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/slack.png" alt="slack" /></a>
 <a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/fork_github.png" /></a>
 
 -   File me [tickets](<https://github.com/DennyZhang/maintain-slack-group/issues>) or star [this github repo](<https://github.com/DennyZhang/maintain-slack-group>)
@@ -98,7 +98,7 @@ What values each of your message bring to the audience. The world is already ver
     https://yourfakechannel.slack.com/
     
     --8<-------------------------- separator ------------------------>8--
-    https://goo.gl/ozDDyL
+    https://www.dennyzhang.com/slack
     Send me a private message, when you're there. (My id is @dennyzhang)
     
     Probably you will see some old friends in that group.
