@@ -43,7 +43,7 @@ What values each of your message bring to the audience. The world is already ver
 ** Doc Template
 *** doc: Invite people into the slack group
 #+BEGIN_EXAMPLE
-We have a slack group with lots of DevOps professionals. Do you want to join and start the discussion there?
+we have a slack group with lots of DevOps professionals. Do you want to join and start the discussion there?
 
 I'm sure your question will be properly answered/discussed there.
 
